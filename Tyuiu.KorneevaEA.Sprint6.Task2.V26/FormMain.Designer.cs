@@ -249,7 +249,7 @@ namespace Tyuiu.KorneevaEA.Sprint6.Task2.V26
             this.MaximizeBox = false;
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Спринт 6 | Таск 2 | Вариант 26 | Насырова В.Р.";
+            this.Text = "Спринт 6 | Таск 2 | Вариант 26 | Корнеева Е.А.";
             this.GroupBoxCond_KEA.ResumeLayout(false);
             this.GroupBoxCond_KEA.PerformLayout();
             this.GroupBoxInput_KEA.ResumeLayout(false);

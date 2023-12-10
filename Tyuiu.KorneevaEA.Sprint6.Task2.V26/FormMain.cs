@@ -66,7 +66,7 @@ namespace Tyuiu.KorneevaEA.Sprint6.Task2.V26
 
         private void ButtonInfo_KEA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 2 выполнила студентка группы ИИПб-23-3 Насырова Влада Ренатовна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("Таск 2 выполнил студент группы АСОиУб-23-3 Корнеева Елизавета Андреевна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
     }
 }
